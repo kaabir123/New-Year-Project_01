@@ -76,3 +76,122 @@ header {
 
 
 /* Header Design End Here */
+
+
+/* Personal Design Start Here */
+.personal-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 200px;
+    margin-bottom: 30px;
+}
+
+.image-section {
+    width: 451px;
+    height: 898px;
+
+}
+
+.Bio-section {
+    width: 500px;
+}
+
+.personal-heading {
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 288px;
+    margin-bottom: 24px;
+}
+
+.personal-description {
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 20px;
+    width: 418px;
+}
+
+ul {
+    list-style: none;
+    list-style-position: inside;
+    list-style-image: url("/images/icons/checkmark.png");
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+
+/* Personal Design End Here */
+
+/* Planning Section Start Here  */
+
+.planning-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+}
+
+.plan-heading {
+    color: #151414;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.planning-items {
+    text-align: center;
+}
+
+.icon-style {}
+
+.plan-head {
+    color: #151414;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 10px 0;
+}
+
+.plan-slogan {
+    color: #737272;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+/* Planning Section End Here */
+
+
+/* Image Section Start Here */
+
+.image-section{
+   background-image: url("/images/watch.png"), url("/images/gradient2.png");
+   background-repeat: no-repeat;
+   width: 100%;
+}
+.image-header{}
+.image-btn{}
+
+/* Image Section End Here */
