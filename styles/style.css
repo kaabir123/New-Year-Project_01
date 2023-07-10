@@ -159,8 +159,6 @@ ul {
     text-align: center;
 }
 
-.icon-style {}
-
 .plan-head {
     color: #151414;
     text-align: center;
@@ -241,7 +239,6 @@ footer {
     justify-content: space-between;
 }
 
-.footer-left {}
 
 .footer-header {
     color: #F8F8F8;
@@ -289,7 +286,7 @@ footer {
     margin-right: 15px;
 }
 
-.footer-right {}
+
 
 .subs {
     color: #FFF;
